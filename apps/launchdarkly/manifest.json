@@ -1,0 +1,6 @@
+{
+  "name": "LaunchDarkly",
+  "description": "LaunchDarkly is a feature management platform for modern software teams",
+  "color": "#405BFF",
+  "appMetadataUrl": "https://raw.githubusercontent.com/spacelift-io/flows-app-launchdarkly/refs/heads/main/versions.json"
+}
